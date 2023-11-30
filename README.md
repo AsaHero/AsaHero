@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of INHA in Tashkent.
-- 💼 &nbsp; Working as a Backend Developer at IMAN company.
+- 💼 &nbsp; Working as a Backend Developer.
 - 🌱 &nbsp; Learning more about Blockchain and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design, Sound Producing and Blog Writing as hobbies/side hustles.
 
