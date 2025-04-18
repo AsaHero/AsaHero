@@ -1,16 +1,24 @@
 # 👋 Hi, I'm Asadbek Bakhtiyarov
 
 🚀 **Golang Backend Engineer** | 🇺🇿 Tashkent, Uzbekistan  
-💡 4+ years of experience building scalable microservices, optimizing backend systems, and integrating AI-driven solutions.  
+💡 3 years of experience building scalable microservices, optimizing backend systems, and integrating AI-driven solutions.  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-**Languages:** Golang (Go), Python, C++, JavaScript, SQL  
-**Frameworks:** Gin, Fiber, FastAPI, ReactJS, CrowCpp  
-**Systems & Tools:** gRPC, REST APIs, Kafka, RabbitMQ, Docker, GitHub Actions, GitLab CI, Grafana, Prometheus, MinIO, Typesense  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Architectures:** Microservices, Domain-Driven Design, Event-Driven Systems
+### 🛠️ Tech Stack & Expertise
+
+**Languages**  
+Go, Python, C++, JavaScript, SQL, NoSQL
+
+**Technologies**  
+Linux, Docker, CI/CD, CMake, GitlabCI, GitHub Actions, GCP, PostgreSQL, MySQL, MongoDB, Typesense, MinIO, Redis, Apache Kafka, RabbitMQ, gRPC, RESTful API
+
+**Architectures & Design Patterns**  
+OOP, Clean Architecture, Hexagonal Architecture, Domain-Driven Design (DDD)  
+Singleton, Builder, Factory, Facade, Adapter, Strategy, Observer (Pub/Sub)
+
+**Frameworks & Libraries**  
+Gin, Go-chi, Fiber, Casbin, GORM, Squirrel/pgx, FastAPI, ReactJS, CrowCpp, nlohmann/json, pugixml
 
 ---
 
@@ -27,8 +35,8 @@
   ⏱ Cut dev time by 30% with smart architecture and tooling
 
 - **Software Engineer @ IMAN Invest**  
-  🐞 Solved a user balance issue affecting 15% of clients in 3 months  
-  🔄 Rewrote entire monolith into scalable Go microservices with Kafka  
+  🐞 Solved a user balance issue affecting 15% of clients within 3 months in the project  
+  🔄 Rewrote entire project, scalable Go microservices with gRPC and Kafka  
   ⚡️ Optimized event pipelines processing 1000+ messages/sec
 
 ---
