@@ -1,55 +1,58 @@
-<h2> Hey there! I'm Asad.</h2>
+# 👋 Hi, I'm Asadbek Bakhtiyarov
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+🚀 **Golang Backend Engineer** | 🇺🇿 Tashkent, Uzbekistan  
+💡 4+ years of experience building scalable microservices, optimizing backend systems, and integrating AI-driven solutions.  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of INHA in Tashkent.
-- 💼 &nbsp; Working as a Backend Developer.
-- 🌱 &nbsp; Learning more about Blockchain and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design, Sound Producing and Blog Writing as hobbies/side hustles.
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠️ Tech Stack & Tools
+**Languages:** Golang (Go), Python, C++, JavaScript, SQL  
+**Frameworks:** Gin, Fiber, FastAPI, ReactJS, CrowCpp  
+**Systems & Tools:** gRPC, REST APIs, Kafka, RabbitMQ, Docker, GitHub Actions, GitLab CI, Grafana, Prometheus, MinIO, Typesense  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Architectures:** Microservices, Domain-Driven Design, Event-Driven Systems
 
-- 💻 &nbsp;
-  ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=flat&logo=go)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
-  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat-square&logo=swagger)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-<!--   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator) -->
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-<!--   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
+---
 
-<br/>
+### 💼 Current & Past Roles
 
-<a href="https://github.com/AsaHero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsaHero&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsaHero&theme=buefy&layout=compact" />
-</a>
+- **Leading Backend Engineer @ Zakupki.AI**  
+  ⏱ Reduced full-text search time from 30s ➡️ 500ms using Typesense  
+  🤖 Built an AI chat system with RAG + LLMs for tender document analysis  
+  🔐 Designed secure SOAP-to-gRPC bridges in C++ with GOST CryptoPro
 
-<br/>
+- **Founding Engineer @ PointAI Tech**  
+  🧠 Integrated OpenAI GPT models with real-time WebSocket chatbots  
+  ⚙️ Designed a mono-microservices backend in Go with DDD patterns  
+  ⏱ Cut dev time by 30% with smart architecture and tooling
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+- **Software Engineer @ IMAN Invest**  
+  🐞 Solved a user balance issue affecting 15% of clients in 3 months  
+  🔄 Rewrote entire monolith into scalable Go microservices with Kafka  
+  ⚡️ Optimized event pipelines processing 1000+ messages/sec
 
-<p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<!-- <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a> -->
-<a href="https://www.instagram.com/asahero__b/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-asahero__b?style=flat-square&logo=instagram"></a>
-<a href="asadbahtiyarov2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-asadbahtiyarov2002?style=flat-square&logo=gmail"></a>
-</p>
+---
 
-⭐️ From [AsaHero](https://github.com/AsaHero)
+### 📦 Side Projects
+
+**📄 [EssayAI](https://essayai.ru)**  
+Built containerized infrastructure, CI/CD pipelines, real-time monitoring, and mailing systems for an AI-powered document platform.
+
+---
+
+### 📹 Content & Community
+
+📺 [YouTube: @asahero_official](https://youtube.com/@asahero_official)  
+Teaching software engineering with hands-on tutorials, code walkthroughs, and system design insights.
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asadbek%20Bakhtiyarov-blue?logo=linkedin)](https://linkedin.com/in/asadbekbakhtiyarov)  
+[📧 Email](mailto:asadbahtiyarov2002@gmail.com) | 🌐 [Portfolio](https://github.com/AsaHero)
+
+---
+
+> “I turn complex backend problems into fast, scalable, and elegant systems.”
+
